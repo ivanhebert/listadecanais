@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+https://rcc3.azureedge.net//hls1/bobosp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
+https://rcc4.azureedge.net//hls1/recordsp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Canais | Abertos",A FAZENDA 10
+https://rcc4.azureedge.net//hls1/afazenda.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1270087958.m3u8
+#EXTINF:-1 tvg-id="TV Marajoara HD" tvg-name="TV Marajoara HD" tvg-logo="https://imgur.com/u5W80JD.png" group-title="Canais | Abertos",TV Marajoara HD
+http://video01.tvdigitalhd.org/tv31966/tv31966/chunklist_w862062317.m3u8
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox HD
+https://rcc4.azureedge.net//hls1/fox.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://imgur.com/R8JHzc6.png" group-title="Canais | Abertos",RBA TV 
+https://video01.tvdigitalhd.org/rbatv12/rbatv12/chunklist_w895872616.m3u8
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://imgur.com/F7DNPQQ.png" group-title="Canais | Religioso",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Abertos",Rede Brasil HD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" pltv-subgroup="TV/CLIPES ON",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
+http://media-br-am.crackle.com/1/j/v6/r82lf_480p.mp4
+#EXTINF:-1,Rede Brasil
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
+https://rcc4.azureedge.net//hls1/sportv1.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
+https://rcc4.azureedge.net//hls1/sportv2.m3u8
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
+https://cdn11.pxstream.tv/loadbalance/sat1/playlist.m3u8?md5=NAotUCCOhh6tyGFzayDKFw&expires=1540718146
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
+https://cdn11.pxstream.tv/loadbalance/sat2/playlist.m3u8?md5=jJRXZ5ekcDmY0RQrxmIcVA&expires=1540718554
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 3
+https://cdn11.pxstream.tv/loadbalance/sat3/playlist.m3u8?md5=qWpWZibW2Pt77e0rCx0mGQ&expires=1540716787
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
+https://rcc4.azureedge.net//hls1/combate.m3u8
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
+https://whostreams.net/live/ggvmax80ikji
+#EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gt4NAUG.png" group-title="2018", Homem-Formiga e a Vespa (DUB)
+http://cdn6.av6.tech/movies/homemformigaevespa-dub-1080p.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/M3A3IZS.png" group-title="2018", Os Incriveis 2 (DUB
+http://cdn6.av6.tech/movies/osincriveis2new-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/0VpPHA0.png" group-title="2018", 8 Mulheres e Um Segredo (DUB)
+http://cdn6.av6.tech/movies/oceans8-dub-1080p.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/IbzXbdt.png" group-title="2018", Deadpool 2 (DUB)
+https://edge32.streamguard.cc/sec/1540704527/313537371570b8e8c5499c42bdf07977fcff4b8bd69c32f3/ivs/5b/b6/02d08ac56b3e/hls/tracks-2,4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IbzXbdt.png" group-title="2018", Deadpool 2 (LEG)
+http://cdn6.av6.tech/movies/deadpool2-leg-1080p.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/q2s48lq.png" group-title="2018", Arranha-Ceu - Coragem Sem Limites (DUB)
+https://gfs270n146.userstorage.mega.co.nz/dl/LmrBjAJadlGLlgJ-29yLK1aegyF4a0gkQfHQANm_E87Nl_m_MfZ5MghXSL_sSdHzjBQ6lfFd64Zhb1iKupKOUsIvWP-QhkJX03_LycSj3NvqYRsWGkP3qI6KkT7SuA/0-4194303
+#EXTINF:-1,Vingança_Sob_Encomenda
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV
+#EXTINF:-1,As_Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?STANIPTV
+#EXTINF:-1,O_Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?STANIPTV
+#EXTINF:-1,O_Dia_Perfeito
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?STANIPTV
+#EXTINF:-1,Uma_Barbearia_Do_Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV
+#EXTINF:-1,A_Toda_Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?STANIPTV
+#EXTINF:-1,Oliver!_1969
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?STANIPTV
+#EXTINF:-1,Simplesmente_Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4?STANIPTV
+#EXTINF:-1,Karate_Kid_3
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4?STANIPTV
+#EXTINF:-1,Nas_Profundesas_do_Mar_Sem_Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4?STANIPTV
+#EXTINF:-1,Grande_Hotel_-1995
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?STANIPTV
+#EXTINF:-1,O_Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?STANIPTV
+#EXTINF:-1,Uma_Beleza_De_Salão
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV
+#EXTINF:-1,Amigas_Com_Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?STANIPTV
+#EXTINF:-1,Um_Homem_Fora_De_Serie-1985
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?STANIPTV
+#EXTINF:-1,O_Melhor_Amigo_Da_Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?STANIPTV
+#EXTINF:-1,Tres_Mulheres_Tres_Amores_-_Filme HD
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV
+#EXTINF:-1,JUNO_-_Filme_HD
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?STANIPTV
+#EXTINF:-1,iptvtools_129
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,Gospel
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
