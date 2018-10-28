@@ -25,12 +25,12 @@ https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&re
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Abertos",Rede Brasil HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" pltv-subgroup="TV/CLIPES ON",RETRO MUSIC
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://imgur.com/uu07Q4j.png" group-title="Canais | Abertos",Amazon Sat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 https://rcc4.azureedge.net//hls1/fox.m3u8
+#EXTINF:-1 tvg-id="Mega Pix" tvg-name="Mega Pix" tvg-logo="https://imgur.com/mZLmiMG.png" group-title="Canais | Filmes e Series",Mega Pix HD
+https://rcc4.azureedge.net//hls1/megapix.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TJQ7k7p.png" group-title="Canais | Filmes e Series",HBO HD
 https://rcc4.azureedge.net//hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2J7oTVY.png" group-title="Canais | Filmes e Series",HBO 2 HD
@@ -53,16 +53,12 @@ https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
 https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="Canais | Filmes e Series",TELECINE CULT HD
 https://rcc3.azureedge.net//hls1/telecinecult.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
-https://copo6.mitopo.me/live/hot/index.m3u8?token=ymDis-684a05YhvieoLjhA&expires=1540800107
-#EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
-https://copo6.mitopo.me/live/venus/index.m3u8?token=p_gDgKxdLxZk5sMqrDptxA&expires=1540836320
-#EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
-https://copo5.mitopo.me/live/playboy/index.m3u8?token=FXst2dN_l1bG_OBRFUij7g&expires=1540836528
-#EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Stars XXX
-https://copo5.mitopo.me/live/redlight/index.m3u8?token=O3BgcHXpnJPUMAUZfcBxtg&expires=1540837502
+#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" pltv-subgroup="MUSICAS",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mRKkcXx.png" group-title="MUSICAS", BIS HD 
+https://rcc4.azureedge.net//hls1/bis.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
 https://rcc4.azureedge.net//hls1/multishow.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
@@ -79,6 +75,14 @@ https://cdn11.pxstream.tv/loadbalance/sat3/playlist.m3u8?md5=qWpWZibW2Pt77e0rCx0
 https://rcc4.azureedge.net//hls1/combate.m3u8
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
 https://whostreams.net/live/ggvmax80ikji
+#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
+https://copo6.mitopo.me/live/hot/index.m3u8?token=ymDis-684a05YhvieoLjhA&expires=1540800107
+#EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
+https://copo6.mitopo.me/live/venus/index.m3u8?token=p_gDgKxdLxZk5sMqrDptxA&expires=1540836320
+#EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
+https://copo5.mitopo.me/live/playboy/index.m3u8?token=FXst2dN_l1bG_OBRFUij7g&expires=1540836528
+#EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Stars XXX
+https://copo5.mitopo.me/live/redlight/index.m3u8?token=O3BgcHXpnJPUMAUZfcBxtg&expires=1540837502
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
