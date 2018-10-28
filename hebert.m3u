@@ -34,9 +34,9 @@ https://rcc4.azureedge.net//hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="CANAIS DE FILMES",TELECINE ACTION HD
 https://rcc4.azureedge.net//hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="CANAIS DE FILMES",TELECINE FUN HD
-https://rcc3.azureedge.net//hls1/telecinefun.m3u8
+https://rcc4.azureedge.net//hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA HD
-https://rcc3.azureedge.net//hls1/telecinepipoca.m3u8
+https://rcc4.azureedge.net//hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM HD
 https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
