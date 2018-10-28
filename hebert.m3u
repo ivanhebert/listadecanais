@@ -53,7 +53,7 @@ https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
 https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="Canais | Filmes e Series",TELECINE CULT HD
 https://rcc3.azureedge.net//hls1/telecinecult.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" group-title="MUSICAS", RETRO MUSIC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.png" group-title="MUSICAS", Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
