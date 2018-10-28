@@ -25,9 +25,7 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.jpg" pltv-subgroup="TV/CLIPES ON",RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
-http://media-br-am.crackle.com/1/j/v6/r82lf_480p.mp4
-#EXTINF:-1,Rede Brasil
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://imgur.com/uu07Q4j.png" group-title="Canais | Abertos",Amazon Sat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
 https://rcc4.azureedge.net//hls1/sportv1.m3u8
@@ -45,6 +43,8 @@ https://rcc4.azureedge.net//hls1/combate.m3u8
 https://whostreams.net/live/ggvmax80ikji
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
+http://media-br-am.crackle.com/1/j/v6/r82lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/gt4NAUG.png" group-title="2018", Homem-Formiga e a Vespa (DUB)
 http://cdn6.av6.tech/movies/homemformigaevespa-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/M3A3IZS.png" group-title="2018", Os Incriveis 2 (DUB
