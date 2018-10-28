@@ -21,7 +21,7 @@ http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid
 http://wpc.9280f.sigmacdn.net/249280F/default/default.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/63ISSk" group-title="RELIGIOSOS",CANCAO NOVA 
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Variedades",TV Gazeta HD
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/s1600/Logo+TV+Gazeta.png" group-title="Canais | Abertos",TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://i.imgur.com/nDzoCw3.png" group-title="Canais | Abertos",Rede Brasil HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
@@ -31,17 +31,17 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 https://rcc4.azureedge.net//hls1/fox.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="CANAIS DE FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="Canais | Filmes e Series",TELECINE ACTION HD
 https://rcc4.azureedge.net//hls1/telecineaction.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="CANAIS DE FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="Canais | Filmes e Series",TELECINE FUN HD
 https://rcc4.azureedge.net//hls1/telecinefun.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="Canais | Filmes e Series",TELECINE PIPOCA HD
 https://rcc4.azureedge.net//hls1/telecinepipoca.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="Canais | Filmes e Series",TELECINE PREMIUM HD
 https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="Canais | Filmes e Series",TELECINE TOUCH HD
 https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="CANAIS DE FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="Canais | Filmes e Series",TELECINE CULT HD
 https://rcc3.azureedge.net//hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
 https://copo6.mitopo.me/live/hot/index.m3u8?token=ymDis-684a05YhvieoLjhA&expires=1540800107
