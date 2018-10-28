@@ -32,17 +32,17 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 https://rcc4.azureedge.net//hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="CANAIS DE FILMES",TELECINE ACTION HD
-https://rcc.azureedge.net//hls1/telecineaction.m3u8
+https://rcc4.azureedge.net//hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="CANAIS DE FILMES",TELECINE FUN HD
 https://rcc4.azureedge.net//hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA HD
 https://rcc4.azureedge.net//hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM HD
-https://rcc4.azureedge.net//hls1/telecinepremium.m3u8
+https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
-https://rcc4.azureedge.net//hls1/telecinetouch.m3u8
+https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="CANAIS DE FILMES",TELECINE CULT HD
-https://rcc4.azureedge.net//hls1/telecinecult.m3u8
+https://rcc3.azureedge.net//hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
