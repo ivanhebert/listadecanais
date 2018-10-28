@@ -15,7 +15,7 @@ http://video01.tvdigitalhd.org/tv31966/tv31966/chunklist_w862062317.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://imgur.com/R8JHzc6.png" group-title="Canais | Abertos",RBA TV 
 https://video01.tvdigitalhd.org/rbatv12/rbatv12/chunklist_w895872616.m3u8
-#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://imgur.com/F7DNPQQ.png" group-title="Canais | Religioso",Gospel Cartoon
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://imgur.com/F7DNPQQ.png" group-title="RELIGIOSOS",Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 #EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSOS", REDE VIDA
 http://wpc.9280f.sigmacdn.net/249280F/default/default.m3u8
@@ -43,6 +43,14 @@ https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
 https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="CANAIS DE FILMES",TELECINE CULT HD
 https://rcc3.azureedge.net//hls1/telecinecult.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
+https://copo6.mitopo.me/live/hot/index.m3u8?token=ymDis-684a05YhvieoLjhA&expires=1540800107
+#EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
+https://copo6.mitopo.me/live/venus/index.m3u8?token=p_gDgKxdLxZk5sMqrDptxA&expires=1540836320
+#EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
+https://copo5.mitopo.me/live/playboy/index.m3u8?token=FXst2dN_l1bG_OBRFUij7g&expires=1540836528
+#EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Stars XXX
+https://copo5.mitopo.me/live/redlight/index.m3u8?token=O3BgcHXpnJPUMAUZfcBxtg&expires=1540837502
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
