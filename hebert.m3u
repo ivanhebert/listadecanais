@@ -32,25 +32,25 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 https://rcc4.azureedge.net//hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="CANAIS DE FILMES",TELECINE ACTION HD
-https://rcc3.azureedge.net//hls1/telecineaction.m3u8
+https://rcc.azureedge.net//hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="CANAIS DE FILMES",TELECINE FUN HD
-https://rcc3.azureedge.net//hls1/telecinefun.m3u8
+https://rcc4.azureedge.net//hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA HD
-https://rcc3.azureedge.net//hls1/telecinepipoca.m3u8
+https://rcc4.azureedge.net//hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM HD
-https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
+https://rcc4.azureedge.net//hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
-https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
+https://rcc4.azureedge.net//hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="CANAIS DE FILMES",TELECINE CULT HD
-https://rcc3.azureedge.net//hls1/telecinecult.m3u8
+https://rcc4.azureedge.net//hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
-https://rcc3.azureedge.net//hls1/mtv.m3u8
+https://rcc4.azureedge.net//hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
-https://rcc3.azureedge.net//hls1/multishow.m3u8
+https://rcc4.azureedge.net//hls1/multishow.m3u8
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
-https://rcc3.azureedge.net//hls1/sportv1.m3u8
+https://rcc4.azureedge.net//hls1/sportv1.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
-https://rcc3.azureedge.net//hls1/sportv2.m3u8
+https://rcc4.azureedge.net//hls1/sportv2.m3u8
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
 https://cdn11.pxstream.tv/loadbalance/sat1/playlist.m3u8?md5=NAotUCCOhh6tyGFzayDKFw&expires=1540718146
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
