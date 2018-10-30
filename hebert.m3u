@@ -90,17 +90,17 @@ https://c15.vidlox.tv/hls/oudvh5cmnbtk2yixv5t6avj7lrnuqe3axxo7efsh3ghly4lc27qxgy
 https://c23.vidlox.tv/hls/oudvh5kmnbtk2yixv5t6ahrai5i3vqdpsncpy3oy6,lzw6u4765xlhbluxnpq,slw6u4765xgortvo3zq,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 05
 https://c23.vidlox.tv/hls/oudvh4smnbtk2yixv5t6aejoijhnqdxrtuvbilos5qwhtk7wp5gdgm3gaylq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 06
+https://c15.vidlox.tv/hls/oudvh42mnbtk2yixv5t6aubslufvwbjf2i5n4kh57,abk7baarkfziyogwscq,ztk7baarkf5spidn22q,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 07
+https://c16.vidlox.tv/hls/oudvh4cmnbtk2yixv5t6acjfdfl76xbxsv22hya7h,gbovszonag6xhgmpv7a,7tovszonag46jlzztpq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 08
+https://c15.vidlox.tv/hls/oudvgdsmnbtk2yixv5t6afrwl7khkzjc7k6xf5gvm,rgcj4563juxyq4vwqca,iucj4563juskxn6zhza,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 09
+https://c23.vidlox.tv/hls/oudvgd2mnbtk2yixv5t6avlqj4h5nelkbcqhpeeau,67s5wmfzdy2zyocpvga,hns5wmfzdywkmazynyq,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 10
+https://c13.vidlox.tv/hls/oudvgcsmnbtk2yixv5t6auzcjahjnpkd6wu5vphgq,pz2cliq7lthse23yyva,wl2cliq7lta2lf3is7a,.urlset/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
-https://copo8.mitopo.me/live/hot/index.m3u8?token=LO9goR5brasyhdGdEixF9w&expires=1540930772
-#EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
-https://copo2.mitopo.me/live/venus/index.m3u8?token=PIE5lUjWoHd9nG5CPZPdAg&expires=1540930140
-#EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
-https://copo7.mitopo.me/live/playboy/index.m3u8?token=9lS-UEfEgoxxgH0YKKkgSg&expires=1540930590
-#EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Passion XXX
-http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/chunklist_w1573034260.m3u8
-#EXTINF:-1,. VH1 UK
-http://37.187.160.187:8000/live/ressler/skype/110.ts
 
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
@@ -118,6 +118,16 @@ https://edge32.streamguard.cc/sec/1540704527/313537371570b8e8c5499c42bdf07977fcf
 http://cdn6.av6.tech/movies/deadpool2-leg-1080p.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/q2s48lq.png" group-title="2018", Arranha-Ceu - Coragem Sem Limites (DUB)
 https://gfs270n146.userstorage.mega.co.nz/dl/LmrBjAJadlGLlgJ-29yLK1aegyF4a0gkQfHQANm_E87Nl_m_MfZ5MghXSL_sSdHzjBQ6lfFd64Zhb1iKupKOUsIvWP-QhkJX03_LycSj3NvqYRsWGkP3qI6KkT7SuA/0-4194303
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
+https://copo8.mitopo.me/live/hot/index.m3u8?token=LO9goR5brasyhdGdEixF9w&expires=1540930772
+#EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
+https://copo2.mitopo.me/live/venus/index.m3u8?token=PIE5lUjWoHd9nG5CPZPdAg&expires=1540930140
+#EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
+https://copo7.mitopo.me/live/playboy/index.m3u8?token=9lS-UEfEgoxxgH0YKKkgSg&expires=1540930590
+#EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Passion XXX
+http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/chunklist_w1573034260.m3u8
+
 #EXTINF:-1,Vingança_Sob_Encomenda
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV
 #EXTINF:-1,As_Branquelas
