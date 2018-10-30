@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-https://cdn11.pxstream.tv/hls2/globominas/playlist.m3u8?md5=2krSkvasjkVimUxLsx-2Lw&expires=1540966022
+http://cdn11.pxstream.tv/hls2/globominas/playlist.m3u8?md5=2krSkvasjkVimUxLsx-2Lw&expires=1540966022
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
-http://tvpremiumhd.club/lista-gratuita/212229/on/live.php?id=wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Canais | Abertos",A FAZENDA 10
 https://canal2.cometa.top//hls1/afazenda.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
@@ -68,22 +68,30 @@ https://rcc4.azureedge.net//hls1/mtv.m3u8
 https://rcc4.azureedge.net//hls1/bis.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
 https://rcc4.azureedge.net//hls1/multishow.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="MUSICA",VH1 
+#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="MUSICAS",VH1 
 http://tvpremiumhd.club/lista-gratuita/212229/tv/v/1771.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sh6Axnc.png" group-title="MUSICA",VH1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sh6Axnc.png" group-title="MUSICAS",VH1 HD
 http://tvpremiumhd.club/lista-gratuita/212229/tv/v/1793.ts
+#EXTINF:-1 tvg-logo="https://www.rockfm.ro/app/assets/layout/rock-logo-white.png" group-title="MUSICAS", Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w506647247_b680000.m3u8?publisher=83
 
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
-https://rcc4.azureedge.net//hls1/sportv1.m3u8
+http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
-https://rcc4.azureedge.net//hls1/sportv2.m3u8
+http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
 https://cdn11.pxstream.tv/loadbalance/sat1/playlist.m3u8?md5=NAotUCCOhh6tyGFzayDKFw&expires=1540718146
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
 https://cdn11.pxstream.tv/loadbalance/sat2/playlist.m3u8?md5=jJRXZ5ekcDmY0RQrxmIcVA&expires=1540718554
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 3
 https://cdn11.pxstream.tv/loadbalance/sat3/playlist.m3u8?md5=qWpWZibW2Pt77e0rCx0mGQ&expires=1540716787
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports
+http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports 2
+http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN BRASIL
+http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
 https://rcc4.azureedge.net//hls1/combate.m3u8
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
@@ -92,7 +100,7 @@ https://whostreams.net/live/ggvmax80ikji
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 01 
 http://s003.thevid.net/v/4f6415f01caba69673fb782591908482.mp4?e=1540894979&sa=NjMLHG87llOuv4NEZ9J6ZA&st=owV_Y6NuQ5H9j_2rbLjDvg
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 02 
-https://cdn.jwplayer.com/videos/oi7pAMI1-mCqiEDEa.mp4
+http://apk2.futeboltvgratis.com:8081/live/12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 03 
 https://c15.vidlox.tv/hls/oudvh5cmnbtk2yixv5t6avj7lrnuqe3axxo7efsh3ghly4lc27qxgyqsj73q/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 04 
