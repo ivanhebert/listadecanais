@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-https://canal2.cometa.top//hls1/globo.m3u8
+https://canal.cometa.top//hls1/bobo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
-https://cdn11.pxstream.tv/hls2/record2278/playlist.m3u8?md5=7v1kgAFgDuulgdBO-7POZA&expires=1540948967
+https://canal.cometa.top//hls1/recordsp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Canais | Abertos",A FAZENDA 10
 https://canal2.cometa.top//hls1/afazenda.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
