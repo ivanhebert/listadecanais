@@ -103,15 +103,15 @@ https://c16.vidlox.me/hls/oudvgq4enbtk2yixv5s6afbvk2hbvoxfl2g6dst7j3ridlupbvetjr
 https://c15.vidlox.me/hls/oudvgqeenbtk2yixv5s6ab3rl5dis4pybvpzqiwzi4awzrzwudp6ru5kavna/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 03 
-https://c30.vidlox.me/hls/oudvh2bsmbthvyaxv7zochl7l6cr4bfxbpyvyjejl4epfx6aaosl63nrp2ra/index-v1-a1.m3u8
+https://c15.vidlox.me/hls/oudvh5cmnbtk2yixv5t6avj7lrnuqe3axxo7efsh3ghly43to4zb3cv354la/index-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 04 
-https://c30.vidlox.me/hls/,oudvh2bsmbthvyaxv7zochl7l6cr4bfxbpyvyjejl4epfx6aaosl63nrp2ra,.urlset/master.m3u8
+https://c23.vidlox.me/hls/oudvh5kmnbtk2yixv5t6ahrai5i3vqdpsncpy3oy6slw6umok66qjb4xhfna/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 05
 https://c23.vidlox.tv/hls/oudvh4smnbtk2yixv5t6aejoijhnqdxrtuvbilos5qwhtk7wp5gdgm3gaylq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 06
-https://c15.vidlox.tv/hls/oudvh42mnbtk2yixv5t6aubslufvwbjf2i5n4kh57,abk7baarkfziyogwscq,ztk7baarkf5spidn22q,.urlset/master.m3u8
+https://c15.vidlox.me/hls/oudvh42mnbtk2yixv5t6aubslufvwbjf2i5n4kh57abk7baarkfziyogwscq,ztk7baarkf5spidn22q/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 07
 https://c16.vidlox.tv/hls/oudvh4cmnbtk2yixv5t6acjfdfl76xbxsv22hya7h,gbovszonag6xhgmpv7a,7tovszonag46jlzztpq,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 08
@@ -140,13 +140,16 @@ http://cdn6.av6.tech/movies/deadpool2-leg-1080p.mp4
 https://gfs270n146.userstorage.mega.co.nz/dl/LmrBjAJadlGLlgJ-29yLK1aegyF4a0gkQfHQANm_E87Nl_m_MfZ5MghXSL_sSdHzjBQ6lfFd64Zhb1iKupKOUsIvWP-QhkJX03_LycSj3NvqYRsWGkP3qI6KkT7SuA/0-4194303
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",PASSIE XXX
-https://copo8.mitopo.me/live/hot/index.m3u8?token=LO9goR5brasyhdGdEixF9w&expires=1540930772
+https://copo2.mitopo.me/live/hot/index.m3u8?token=loausOIZkUvmkrnKvPZZGA&expires=1541043819
 #EXTINF:-1 tvg-logo="https://imgur.com/MhjcohE.png" group-title="CANAIS Adultos",Venus 
-https://copo2.mitopo.me/live/venus/index.m3u8?token=PIE5lUjWoHd9nG5CPZPdAg&expires=1540930140
+https://copo5.mitopo.me/live/venus/index.m3u8?token=VetNSb7z8wgevcZKqJ4E5A&expires=1541043472
 #EXTINF:-1 tvg-logo="https://imgur.com/YOU0t6Z.png" group-title="CANAIS Adultos",Playboy TV
-https://copo7.mitopo.me/live/playboy/index.m3u8?token=9lS-UEfEgoxxgH0YKKkgSg&expires=1540930590
+https://copo3.mitopo.me/live/playboy/index.m3u8?token=xt1B--feZtywo9bA1A7CfQ&expires=1541043757
 #EXTINF:-1 tvg-logo="https://imgur.com/3cpTEct.png" group-title="CANAIS Adultos",Passion XXX
 http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/chunklist_w1573034260.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x27wshC.png" group-title="CANAIS Adultos",Hustler HD
+https://copo2.mitopo.me/live/hot/index.m3u8?token=loausOIZkUvmkrnKvPZZGA&expires=1541043819
+
 
 #EXTINF:-1,Vingança_Sob_Encomenda
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV
