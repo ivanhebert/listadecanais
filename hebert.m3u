@@ -98,11 +98,14 @@ https://rcc4.azureedge.net//hls1/combate.m3u8
 https://whostreams.net/live/ggvmax80ikji
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 01 
-https://c16.vidlox.me/hls/,oudvgq4enbtk2yixv5s6afbvk2hbvoxfl2g6dst7j3ridlupbvetjrgyczuq,.urlset/master.m3u8
+https://c16.vidlox.me/hls/oudvgq4enbtk2yixv5s6afbvk2hbvoxfl2g6dst7j3ridlupbvetjrgyczuq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 02 
-https://c15.vidlox.me/hls/,oudvgqeenbtk2yixv5s6ab3rl5dis4pybvpzqiwzi4awzrzwudp6ru5kavna,.urlset/master.m3u8
+https://c15.vidlox.me/hls/oudvgqeenbtk2yixv5s6ab3rl5dis4pybvpzqiwzi4awzrzwudp6ru5kavna/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 03 
 https://c30.vidlox.me/hls/oudvh2bsmbthvyaxv7zochl7l6cr4bfxbpyvyjejl4epfx6aaosl63nrp2ra/index-v1-a1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 04 
 https://c30.vidlox.me/hls/,oudvh2bsmbthvyaxv7zochl7l6cr4bfxbpyvyjejl4epfx6aaosl63nrp2ra,.urlset/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 05
