@@ -151,6 +151,9 @@ http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E17.720p.DUB.mkv.m
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 18
 http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E18.720p.DUB.mkv.mp4
 
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
+https://c13.vidlox.tv/hls/oudvhduxm5tk2yixv4s6ahjkjxy25xvdpvmqvrccihquorfrvur5jgwk2f3q/index-v1-a1.m3u8
+
 
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
