@@ -54,6 +54,8 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="BRASIL",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.png" group-title="MUSICAS", RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -61,10 +63,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://minhalista.live/channel/1198772/sabedenadatv/redirect
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mRKkcXx.png" group-title="MUSICAS", BIS HD 
-https://rcc4.azureedge.net//hls1/bis.m3u8
-#EXTINF:-1 tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/multishow.png" group-title="MUSICAS",MULTISHOW
-https://rcc4.azureedge.net//hls1/multishow.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="MUSICAS",VH1 
 http://tvpremiumhd.club/lista-gratuita/212229/tv/v/1771.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sh6Axnc.png" group-title="MUSICAS",VH1 HD
