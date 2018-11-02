@@ -13,7 +13,7 @@ https://video-1-2.rutube.ru/hls-vod/EiucrbQlXKuLNcRmQMnhww/1541192886/584/0x5000
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.minhalista.me:80/live/ivanlima/211001pa/37361.ts
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
-http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
+http://177.12.99.108:8000/play/a005?ivanlima
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
