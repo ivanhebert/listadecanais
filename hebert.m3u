@@ -3,7 +3,7 @@
 https://wi3.azureedge.net//hls1/bobosp.m3u8
 
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://imgur.com/R8JHzc6.png" group-title="Canais | Abertos",TWD0
-https://vd0.mycdn.me/?expires=1541202819397&srcIp=187.122.227.50&srcAg=CHROME&type=2&sig=V2J5SqhwVME&ct=4&urls=217.20.153.84%3B217.20.153.70%3B217.20.157.209&clientType=0&id=420632463941&bytes=15420884-17691079
+https://video-1-107.rutube.ru/hls-vod/JWWsyf2rLUQNR9wPXTHSug/1541143794/128/0x5000cca24dd39e63/63fc8f6ce59343b1a052d617da5b6aae.mp4.m3u8?i=256x144_169
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
