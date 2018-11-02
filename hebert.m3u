@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
 http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
