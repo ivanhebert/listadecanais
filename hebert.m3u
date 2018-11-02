@@ -10,6 +10,15 @@ https://video-2-301.rutube.ru/hls-vod/SRZHU8XHxweHbIoTcJnKGQ/1541193289/582/0x50
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x04
 https://video-1-2.rutube.ru/hls-vod/EiucrbQlXKuLNcRmQMnhww/1541192886/584/0x5000cca255e4c754/ea87f44c26f247d1bfda9322beb85e01.mp4.m3u8?i=1280x720_1265
 
+#EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Cine Filmes
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES",- CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
+http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
+
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 http://tv.minhalista.me:80/live/ivanlima/211001pa/37361.ts
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
@@ -20,6 +29,8 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 http://177.12.99.108:8000/play/a00o?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record PB
 http://177.12.99.108:8000/play/a00f?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta", Record Nwes HD
+https://minhalista.live/channel/1205827/sabedenadatv/redirect
 
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
@@ -54,6 +65,9 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS MUSICA", NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?TvFogoHD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="BRASIL",VH1 MEGAHITS
 http://stream.1music.hu/stream/1music.m3u8
 
@@ -63,10 +77,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 https://minhalista.live/channel/1198772/sabedenadatv/redirect
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="MUSICAS",VH1 
-http://tvpremiumhd.club/lista-gratuita/212229/tv/v/1771.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sh6Axnc.png" group-title="MUSICAS",VH1 HD
-http://tvpremiumhd.club/lista-gratuita/212229/tv/v/1793.ts
+
 #EXTINF:-1 tvg-logo="https://www.rockfm.ro/app/assets/layout/rock-logo-white.png" group-title="MUSICAS", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w506647247_b680000.m3u8?publisher=83
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSICAS", HIT TV 
@@ -103,10 +114,8 @@ http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN+
 http://apk2.futeboltvgratis.com:8081/live/3/chunks.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
-https://rcc4.azureedge.net//hls1/combate.m3u8
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
-https://whostreams.net/live/ggvmax80ikji
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALLSPORTS.png" tvg-id=" group-title="BRASIL",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8i
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 01 
 http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.mp4
@@ -147,8 +156,7 @@ http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E17.720p.DUB.mkv.m
 http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E18.720p.DUB.mkv.mp4
 
 
-#EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Filmes 24h
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
 http://media-br-am.crackle.com/1/j/v6/r82lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/gt4NAUG.png" group-title="2018", Homem-Formiga e a Vespa (DUB)
