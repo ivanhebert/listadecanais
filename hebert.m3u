@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
-http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
 https://video-1-103.rutube.ru/hls-vod/p7PRO69sbLftiKL57hc_zw/1541193089/135/0x5000cca255cc908c/6ec695b8bd5a46d9a4998c294818be8b.mp4.m3u8?i=1280x720_998
@@ -12,6 +11,8 @@ https://video-2-301.rutube.ru/hls-vod/SRZHU8XHxweHbIoTcJnKGQ/1541193289/582/0x50
 https://video-1-2.rutube.ru/hls-vod/EiucrbQlXKuLNcRmQMnhww/1541192886/584/0x5000cca255e4c754/ea87f44c26f247d1bfda9322beb85e01.mp4.m3u8?i=1280x720_1265
 
 
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
+http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
