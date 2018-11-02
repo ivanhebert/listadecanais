@@ -88,15 +88,11 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPRJHC6.png" group-title="MUSICAS", VIRGIN RADIO TV 
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EyU9Bcu.png" group-title="MUSICAS", ROCK NACIONAL TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EyU9Bcu.png" group-title="MUSICAS", ROCK NACIONAL TV (Mex)
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B53hBGY.png" group-title="MUSICAS", PLANETA HD 
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICAS", XITE 
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s8bLqJM.png" group-title="MUSICAS", TVPOP 
-http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICAS", CAPITAL TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICAS", RADIO CAPITAL TV 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 
