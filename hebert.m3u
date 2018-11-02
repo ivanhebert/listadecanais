@@ -10,7 +10,8 @@ https://video-2-301.rutube.ru/hls-vod/SRZHU8XHxweHbIoTcJnKGQ/1541193289/582/0x50
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x04
 https://video-1-2.rutube.ru/hls-vod/EiucrbQlXKuLNcRmQMnhww/1541192886/584/0x5000cca255e4c754/ea87f44c26f247d1bfda9322beb85e01.mp4.m3u8?i=1280x720_1265
 
-
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://tv.minhalista.me:80/live/ivanlima/211001pa/37361.ts
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
 http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
@@ -32,6 +33,12 @@ http://video01.tvdigitalhd.org/tv31966/tv31966/chunklist_w862062317.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://imgur.com/R8JHzc6.png" group-title="Canais | Abertos",RBA TV 
 https://video01.tvdigitalhd.org/rbatv12/rbatv12/chunklist_w895872616.m3u8
+
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?
+
+
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://imgur.com/F7DNPQQ.png" group-title="RELIGIOSOS",Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 #EXTINF:-1 tvg-logo="https://goo.gl/H4GFo1" group-title="RELIGIOSOS", REDE VIDA
