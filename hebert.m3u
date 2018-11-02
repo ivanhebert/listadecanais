@@ -6,7 +6,7 @@ https://video-1-107.rutube.ru/hls-vod/S9XTJoLApy9_AtlpC_jjkg/1541144188/584/0x50
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x02
 https://video-1-102.rutube.ru/hls-vod/67mqkyY6xmPAdlSceR_rbQ/1541151382/584/0x5000cca255ed64f4/e272d2139fe64b41bbf51c1790f5d868.mp4.m3u8?i=1280x720_1262
 
-#EXTINF:-1,Teste
+#EXTINF:-1 tvg-id="" tvg-name="TESTE"
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
