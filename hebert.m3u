@@ -21,8 +21,7 @@ http://177.12.99.108:8000/play/a00o?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record PB
 http://177.12.99.108:8000/play/a00f?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Canais | Abertos",A FAZENDA 10
-http://203.gotoplayer.xyz:8088/live/tveimaxxaovivo7/playlist.m3u8?id=29151&wowzasessionid=724345000&pk=f79c5d410051b205983184a27abc095e4bba663bd3b95102fbd1a80a11790d43
+
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1270087958.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV PB HD
@@ -53,40 +52,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BazWqGe.png" group-title="Canais | Filmes e Series",City TV HD
 http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
-https://rcc4.azureedge.net//hls1/fox.m3u8
-#EXTINF:-1 tvg-id="Mega Pix" tvg-name="Mega Pix" tvg-logo="https://imgur.com/mZLmiMG.png" group-title="Canais | Filmes e Series",Mega Pix HD
-https://rcc4.azureedge.net//hls1/megapix.m3u8
-#EXTINF:-1 tvg-id="MComedy Central" tvg-name="Comedy Central" tvg-logo="https://imgur.com/lKuxQhd.png" group-title="Canais | Filmes e Series",Comey Central HD
-https://rcc3.azureedge.net//hls1/comedycentral.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TJQ7k7p.png" group-title="Canais | Filmes e Series",HBO HD
-https://rcc4.azureedge.net//hls1/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2J7oTVY.png" group-title="Canais | Filmes e Series",HBO 2 HD
-https://rcc4.azureedge.net//hls1/hbo2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cTf3Emh.png" group-title="Canais | Filmes e Series",HBO Plus HD
-https://rcc4.azureedge.net//hls1/hboplus.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/l4PtkMF.png" group-title="Canais | Filmes e Series",HBO Family HD
-https://rcc4.azureedge.net//hls1/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JPQkwhw.png" group-title="Canais | Filmes e Series",Warner Channel HD
-https://rcc4.azureedge.net//hls1/warner.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jiy4emc.png" group-title="Canais | Filmes e Series",TELECINE ACTION HD
-https://rcc4.azureedge.net//hls1/telecineaction.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9PZvMk1.png" group-title="Canais | Filmes e Series",TELECINE FUN HD
-https://rcc4.azureedge.net//hls1/telecinefun.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0SzoLMU.png" group-title="Canais | Filmes e Series",TELECINE PIPOCA HD
-https://rcc4.azureedge.net//hls1/telecinepipoca.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DoXTVVj.png" group-title="Canais | Filmes e Series",TELECINE PREMIUM HD
-https://rcc3.azureedge.net//hls1/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/M1abRsf.png" group-title="Canais | Filmes e Series",TELECINE TOUCH HD
-https://rcc3.azureedge.net//hls1/telecinetouch.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/U9GW7lA.png" group-title="Canais | Filmes e Series",TELECINE CULT HD
-https://rcc3.azureedge.net//hls1/telecinecult.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/je4QSLk.png" group-title="MUSICAS", RETRO MUSIC
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MV249fW.png" group-title="MUSICAS", Multimedios Teleritmo
-https://lhr-1.firstonetv.net:4434/hls/85bf152c7aa346a33ad477dbe1a9ae36/1540875798/7b226970223a66616c73652c227561223a66616c73652c22726566223a66616c73652c226e6f7473223a66616c73657d/687474703a2f2f7675732d62342d702d652d6c33632e63646e2e6d647374726d2e636f6d2f6c6976652d73747265616d2f3537623464633132363333383434383331343434396430632f7075626c6973682f6d656469615f3830302e6d3375383f65733d7675732d62342d702d652d6c33632e63646e2e6d647374726d2e636f6d266f74653d31353430393333343031323836266f743d6b5458416f53587a6255424659526e4f6456344751672670726f746f3d6874747026707a3d7573.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/09fc86f2062766e99edf43374a779d75_online.jpg" group-title="Paraná",TV Transamérica (PR)
+https://minhalista.live/channel/1198772/sabedenadatv/redirect
 #EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
 https://rcc4.azureedge.net//hls1/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mRKkcXx.png" group-title="MUSICAS", BIS HD 
