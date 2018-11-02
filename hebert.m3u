@@ -76,6 +76,10 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/09fc86f2062766e99edf43374a779d75_online.jpg" group-title="Paraná",TV Transamérica (PR)
 https://minhalista.live/channel/1198772/sabedenadatv/redirect
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" tvg-id="0" group-title="PORTUGAL",DJING IBIZA
+http://djing.com/tv/ibiza.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
 http://62.210.93.43:80/live?channelId=102&deviceMac=00:1a:79:3c:c7:28&uid=5613
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" tvg-id="0" group-title="PORTUGAL",MTV CLASSIC
