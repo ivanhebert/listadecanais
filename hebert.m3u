@@ -11,12 +11,17 @@ https://video-2-301.rutube.ru/hls-vod/53XvJgm84n0KEmonqwP3bA/1541160199/133/0x50
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",Record HD
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
+http://177.12.99.108:8000/play/a00o?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record PB
+http://177.12.99.108:8000/play/a00f?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 10" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="Canais | Abertos",A FAZENDA 10
 https://wi4.azureedge.net//hls1/afazenda.m3u8
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV HD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1270087958.m3u8
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="Rede TV HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",Rede TV PB HD
+http://177.12.99.108:8000/play/a00r?PEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-id="TV Marajoara HD" tvg-name="TV Marajoara HD" tvg-logo="https://imgur.com/u5W80JD.png" group-title="Canais | Abertos",TV Marajoara HD
 http://video01.tvdigitalhd.org/tv31966/tv31966/chunklist_w862062317.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
