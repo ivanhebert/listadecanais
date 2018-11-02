@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 https://wi3.azureedge.net//hls1/bobosp.m3u8
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://imgur.com/MFQ4w1C.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://imgur.com/MKY3NhM.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
 https://video-1-107.rutube.ru/hls-vod/S9XTJoLApy9_AtlpC_jjkg/1541144188/584/0x5000cca271c78f19/6ec695b8bd5a46d9a4998c294818be8b.mp4.m3u8?i=1280x720_998
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
