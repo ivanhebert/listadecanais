@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/eGbQpyrhtSY/hqdefault.jpg",Teaser Card Qual Sua Tribo ?
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eGbQpyrhtSY
 
 #EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="https://imgur.com/R8JHzc6.png" group-title="Canais | Abertos",TWD0
