@@ -6,12 +6,6 @@ https://video-1-107.rutube.ru/hls-vod/S9XTJoLApy9_AtlpC_jjkg/1541144188/584/0x50
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x02
 https://video-1-102.rutube.ru/hls-vod/67mqkyY6xmPAdlSceR_rbQ/1541151382/584/0x5000cca255ed64f4/e272d2139fe64b41bbf51c1790f5d868.mp4.m3u8?i=1280x720_1262
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TJQ7k7p.png" group-title="Canais | Filmes e Series",SEM 1
-http://apk2.futeboltvgratis.com:8081/live/3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TJQ7k7p.png" group-title="Canais | Filmes e Series",SEm 2
-http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TJQ7k7p.png" group-title="Canais | Filmes e Series",Sem 3
-http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
@@ -40,6 +34,8 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://imgur.com/uu07Q4j.png" group-title="Canais | Abertos",Amazon Sat
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BazWqGe.png" group-title="Canais | Filmes e Series",City TV HD
+http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox
 https://rcc4.azureedge.net//hls1/fox.m3u8
 #EXTINF:-1 tvg-id="Mega Pix" tvg-name="Mega Pix" tvg-logo="https://imgur.com/mZLmiMG.png" group-title="Canais | Filmes e Series",Mega Pix HD
@@ -108,6 +104,8 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
+http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
 https://cdn11.pxstream.tv/loadbalance/sat1/playlist.m3u8?md5=NAotUCCOhh6tyGFzayDKFw&expires=1540718146
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
@@ -120,6 +118,8 @@ http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
 http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN BRASIL
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN+
+http://apk2.futeboltvgratis.com:8081/live/3/chunks.m3u8
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
 https://rcc4.azureedge.net//hls1/combate.m3u8
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
