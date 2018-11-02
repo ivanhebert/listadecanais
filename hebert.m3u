@@ -75,8 +75,19 @@ http://stream.1music.hu/stream/1music.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/09fc86f2062766e99edf43374a779d75_online.jpg" group-title="Paraná",TV Transamérica (PR)
 https://minhalista.live/channel/1198772/sabedenadatv/redirect
-#EXTINF:-1 tvg-logo="https://imgur.com/zBkDOw0.png" group-title="MUSICAS", MTV HD 
-https://rcc4.azureedge.net//hls1/mtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" tvg-id="0" group-title="PORTUGAL",MTV BASE
+http://62.210.93.43:80/live?channelId=102&deviceMac=00:1a:79:3c:c7:28&uid=5613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" tvg-id="0" group-title="PORTUGAL",MTV CLASSIC
+http://62.210.93.43:80/live?channelId=103&deviceMac=00:1a:79:3c:c7:28&uid=5613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVDANCE.png" tvg-id="0" group-title="PORTUGAL",MTV DANCE
+http://62.210.93.43:80/live?channelId=104&deviceMac=00:1a:79:3c:c7:28&uid=5613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" tvg-id="0" group-title="PORTUGAL",MTV HITS
+http://62.210.93.43:80/live?channelId=105&deviceMac=00:1a:79:3c:c7:28&uid=5613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" tvg-id="0" group-title="PORTUGAL",MTV MUSIC
+http://62.210.93.43:80/live?channelId=106&deviceMac=00:1a:79:3c:c7:28&uid=5613
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
+http://persik.by/stream/6431/299492/10227.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rockfm.ro/app/assets/layout/rock-logo-white.png" group-title="MUSICAS", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w506647247_b680000.m3u8?publisher=83
