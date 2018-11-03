@@ -109,7 +109,7 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
-http://ul.cdn584.net:8080/hls/uqd4v4s.m3u8?s=6usqdUELRNnUfRoZ1deJpQ&e=1541242609
+http://ul.cdn584.net:8080/hls/uqd4v4s-254127060.ts
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
 https://ul.cdn584.net:8443/hls/ggvmax80ikji.m3u8?s=7_M5ZeVNvY-G9h6SWI7DuQ&e=1541242275
