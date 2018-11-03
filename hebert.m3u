@@ -20,9 +20,9 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-https://ul.cdn584.net:8443/hls/t16ich2p0.m3u8?s=rpTsbHb9bNcokkzs6P_QXw&e=1541239999
+hhttps://cdn11.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/l_31179_21850634_5023.ts
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
-https://ul.cdn584.net:8443/hls/t16ich2p0.m3u8?s=FcP66CJb0dtFBhjZ3Sa_4A&e=1541239000
+https://cdn11.pxstream.tv/hls2/globominas/chunks.m3u8?md5=QkBW84nG_K510DcDpqwdwQ&expires=1541266427
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
