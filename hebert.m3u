@@ -20,7 +20,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-https://live-edge.pxstream.tv/loadbalance/85358847737534934418/chunks.m3u8?md5=oIco1bWTIuyhg17rLGJ_0w&expires=1541290627
+https://wii4.azureedge.net//hls1/bobosp.m3u8
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
 https://cdn11.pxstream.tv/hls2/globominas/chunks.m3u8?md5=QkBW84nG_K510DcDpqwdwQ&expires=1541266427
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
