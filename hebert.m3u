@@ -1,53 +1,6 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1,canal 02
-http://177.12.99.108:8000/play/a023?PEDROJUNIORTUTORIAIS #Name: iptvtools_3
-#EXTINF:-1,canal 03
-http://177.12.99.108:8000/play/a024?PEDROJUNIORTUTORIAIS #Name: iptvtools_4
-#EXTINF:-1,canal 04
-http://177.12.99.108:8000/play/a025?PEDROJUNIORTUTORIAIS #Name: iptvtools_5
-#EXTINF:-1,canal 05
-http://177.12.99.108:8000/play/a026?PEDROJUNIORTUTORIAIS #Name: iptvtools_6
-#EXTINF:-1,canal 06
-http://177.12.99.108:8000/play/a027?PEDROJUNIORTUTORIAIS #Name: iptvtools_7
-#EXTINF:-1,canal 07
-http://177.12.99.108:8000/play/a028?PEDROJUNIORTUTORIAIS #Name: iptvtools_8
-#EXTINF:-1,canal 08
-http://177.12.99.108:8000/play/a029?PEDROJUNIORTUTORIAIS #Name: iptvtools_9
-#EXTINF:-1,canal 09
-http://177.12.99.108:8000/play/a030?PEDROJUNIORTUTORIAIS #Name: iptvtools_10
-#EXTINF:-1,canal 10
-http://177.12.99.108:8000/play/a031?PEDROJUNIORTUTORIAIS #Name: iptvtools_11
-#EXTINF:-1,canal 11
-http://177.12.99.108:8000/play/a032?PEDROJUNIORTUTORIAIS #Name: iptvtools_12
-#EXTINF:-1,canal 12
-http://177.12.99.108:8000/play/a033?PEDROJUNIORTUTORIAIS #Name: iptvtools_13
-#EXTINF:-1,canal 13
-http://177.12.99.108:8000/play/a034?PEDROJUNIORTUTORIAIS #Name: iptvtools_14
-#EXTINF:-1,canal 14
-http://177.12.99.108:8000/play/a035?PEDROJUNIORTUTORIAIS #Name: iptvtools_15
-#EXTINF:-1,canal 15
-http://177.12.99.108:8000/play/a036?PEDROJUNIORTUTORIAIS #Name: iptvtools_16
-#EXTINF:-1,canal 16
-http://177.12.99.108:8000/play/a037?PEDROJUNIORTUTORIAIS #Name: iptvtools_17
-#EXTINF:-1,canal 17
-http://177.12.99.108:8000/play/a038?PEDROJUNIORTUTORIAIS #Name: iptvtools_18
-#EXTINF:-1,canal 18
-http://177.12.99.108:8000/play/a039?PEDROJUNIORTUTORIAIS #Name: iptvtools_19
-#EXTINF:-1,canal 19
-http://177.12.99.108:8000/play/a040?PEDROJUNIORTUTORIAIS #Name: iptvtools_19
-#EXTINF:-1,canal 20
-http://177.12.99.108:8000/play/a041?PEDROJUNIORTUTORIAIS #Name: iptvtools_20
-#EXTINF:-1,canal 21
-http://177.12.99.108:8000/play/a042?PEDROJUNIORTUTORIAIS #Name: iptvtools_21
-#EXTINF:-1,canal 22
-http://177.12.99.108:8000/play/a043?PEDROJUNIORTUTORIAIS #Name: iptvtools_22
-
-
-
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
 https://video-1-103.rutube.ru/hls-vod/p7PRO69sbLftiKL57hc_zw/1541193089/135/0x5000cca255cc908c/6ec695b8bd5a46d9a4998c294818be8b.mp4.m3u8?i=1280x720_998
 #EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x02
@@ -164,6 +117,18 @@ http://ul.cdn584.net:8080/hls/yoopha6.m3u8?s=FMMZzyYkikNqkYudtoemzw&e=1541243058
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
 https://ul.cdn584.net:8443/hls/ggvmax80ikji.m3u8?s=7_M5ZeVNvY-G9h6SWI7DuQ&e=1541242275
 
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="ESPORTES", EI MAXX 2 HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="ESPORTES", EI MAXX 2 SD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES", EI MAXX HD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES", EI MAXX SD
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv
 http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
@@ -189,44 +154,14 @@ http://apk2.futeboltvgratis.com:8081/live/3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALLSPORTS.png" group-title="Canais | Esportes", ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8i
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 01 
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 02 
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E02.Dub.HD.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 03 
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E03.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 04 
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E04.720p.DUB.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 05
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E05.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 06
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E06.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 07
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E07.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 08
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E08.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 09
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E09.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 10
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E10.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 11
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E11.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 12
-https://video-1-208.rutube.ru/hls-vod/3sYqyLw_KXzDS68AwAfI9A/1541366732/582/0x5000cca255eec82d/a415eee89d8e4053864a03b797f93537.mp4.m3u8?i=1280x720_671
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 13
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E13.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 14
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E14.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 15
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E15.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 16
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E16.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 17
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E17.720p.DUB.mkv.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 1ªTemp", The Good Doctor 18
-http://filmeseseries.pe.hu/The.Good.Doctor/The.Good.Doctor.S01E18.720p.DUB.mkv.mp4
-
+#EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x01
+https://video-1-103.rutube.ru/hls-vod/p7PRO69sbLftiKL57hc_zw/1541193089/135/0x5000cca255cc908c/6ec695b8bd5a46d9a4998c294818be8b.mp4.m3u8?i=1280x720_998
+#EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x02
+https://video-1-102.rutube.ru/hls-vod/d6IRGKohy0saYL-hPZYZXA/1541193211/582/0x5000cca255ef3a12/e272d2139fe64b41bbf51c1790f5d868.mp4.m3u8?i=1280x720_1262
+#EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x03
+https://video-2-301.rutube.ru/hls-vod/SRZHU8XHxweHbIoTcJnKGQ/1541193289/582/0x5000cca255eedceb/9921b909e4fc449a9c7f93274e0f4aad.mp4.m3u8?i=1280x720_1315
+#EXTINF:-1 tvg-id="Fox" tvg-name="TWD" tvg-logo="https://imgur.com/kBQ4kmK.png" group-title="Canais | The Walking Dead 9ªT",TWD 09x04
+https://video-1-2.rutube.ru/hls-vod/EiucrbQlXKuLNcRmQMnhww/1541192886/584/0x5000cca255e4c754/ea87f44c26f247d1bfda9322beb85e01.mp4.m3u8?i=1280x720_1265
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-d6GD2OUnLoM/TlFATwA7y9I/AAAAAAAAASM/mrY9x89DjAw/s1600/344dobt.jpg" group-title="Filmes Dublado",Ela Danca Eu Danco
