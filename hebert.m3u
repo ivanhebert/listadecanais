@@ -130,6 +130,8 @@ https://cdn11.pxstream.tv/loadbalance/sat3/playlist.m3u8?md5=qWpWZibW2Pt77e0rCx0
 http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports 2
 http://apk2.futeboltvgratis.com:8081/live/5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports Mexico
+http://23.237.22.157:25461/live/newKeyman/televallesunpendejo/85.m3u8?token=GUEJUkMJGgwRAwQGU1IHAgBTAl8GUgUMBgcFAVELAwFRBlYAU1APAlIRShISFUdUUQ9rDwBGCQEEGBBCFVZCOwsHQwkSVhoaEUcPXQRDDwEcQEQPAEYJGwMGAg5fERxGBxsVVkIPWVpsVwNGCAJQEwoMQQoISBFWX2tWUgtSXgBAWUMDEk0aX0BDRApDNVBdVQ9VFEQqXEtFURJ7A0BEAUIwT3IeQxQUUVoSQgAVUBMKQA1TUkYfG1JbR1kSQUlGWEEjYRJNGlNLRwNeEghaXxJYFgtXEQsbHRZbRDlBVRcWEQRSXQRKFAkRVhJNQ1hQSD1XCQoKVlpFXV1ZFREKRlJBTRFdDlZfR1wUbxEIURMKQAZRVFcGG0w=
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN BRASIL
 http://apk2.futeboltvgratis.com:8081/live/19/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="Canais | Esportes", ESPN+
