@@ -1,20 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,canal 01
-http://177.12.99.108:8000/play/a001?PEDROJUNIORTUTORIAIS #Name: iptvtools_1
-#EXTINF:-1,canal 02
-http://177.12.99.108:8000/play/a002?PEDROJUNIORTUTORIAIS #Name: iptvtools_2
-#EXTINF:-1,canal 03
-http://177.12.99.108:8000/play/a003?PEDROJUNIORTUTORIAIS #Name: iptvtools_3
-#EXTINF:-1,canal 04
-http://177.12.99.108:8000/play/a004?PEDROJUNIORTUTORIAIS #Name: iptvtools_4
-#EXTINF:-1,canal 05
-http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS #Name: iptvtools_5
-#EXTINF:-1,canal 06
-http://177.12.99.108:8000/play/a006?PEDROJUNIORTUTORIAIS #Name: iptvtools_6
-#EXTINF:-1,canal 06
-http://177.12.99.108:8000/play/a007?PEDROJUNIORTUTORIAIS #Name: iptvtools_7
+
+
 #EXTINF:-1,canal 07
 http://177.12.99.108:8000/play/a008?PEDROJUNIORTUTORIAIS #Name: iptvtools_8
 #EXTINF:-1,canal 08
@@ -69,7 +57,7 @@ http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
 https://ul.cdn584.net:8443/hls/t16ich2p0.m3u8?s=F3-kCTsOeTkarqcp6sN_1w&e=1541507691
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo PB HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo PB HD
-https://cdn11.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=mLGQ4W2E1FACaDgSXRSQ3g&expires=1541529418
+http://177.12.99.108:8000/play/a005?PEDROJUNIORTUTORIAIS #Name: iptvtools_5
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
