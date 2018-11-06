@@ -92,6 +92,9 @@ http://62.210.93.43:80/live?channelId=105&deviceMac=00:1a:79:3c:c7:28&uid=5613
 http://62.210.93.43:80/live?channelId=106&deviceMac=00:1a:79:3c:c7:28&uid=5613
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" tvg-id="0" group-title="PORTUGAL",MTV ROCKS
 http://persik.by/stream/6431/299492/10227.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9PFlNUM.png" group-title="CANAIS MUSICA", RU TV
+https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.rockfm.ro/app/assets/layout/rock-logo-white.png" group-title="MUSICAS", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w506647247_b680000.m3u8?publisher=83
