@@ -15,7 +15,7 @@ https://video-1-2.rutube.ru/hls-vod/WiTXJ8BZrdU6MJnFI6pjiA/1541584924/582/0x5000
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Cine Filmes
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES",- Canal teste
-http://tv.minhalista.me/live/admin/000000/36962.ts
+http://tv.minhalista.me/live/admin/123456/36962.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES",- CINE FILMES 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
