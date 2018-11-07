@@ -141,7 +141,7 @@ http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
 https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=RMEAYmtj-6_Oyr-fKuihGw&expires=1541660500
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
-https://cdn11.pxstream.tv/loadbalance/sat2/playlist.m3u8?md5=jJRXZ5ekcDmY0RQrxmIcVA&expires=1540718554
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=CTWf_aa6Esge5duom94hCA&expires=1541661996
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 3
 https://cdn11.pxstream.tv/loadbalance/sat3/playlist.m3u8?md5=qWpWZibW2Pt77e0rCx0mGQ&expires=1540716787
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports
