@@ -139,7 +139,7 @@ http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
 #EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere
-https://cdn11.pxstream.tv/loadbalance/sat1/playlist.m3u8?md5=NAotUCCOhh6tyGFzayDKFw&expires=1540718146
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=RMEAYmtj-6_Oyr-fKuihGw&expires=1541660500
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 2
 https://cdn11.pxstream.tv/loadbalance/sat2/playlist.m3u8?md5=jJRXZ5ekcDmY0RQrxmIcVA&expires=1540718554
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://imgur.com/lWlqOJ7.png" group-title="Canais | Esportes",Premiere 3
