@@ -1,23 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3cvVK7m.png?1" group-title="ESPORTES",COMBATE SD
-https://minhalista.live/channel/970130/listasiptv-online/redirect
-
-
 
 
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Cine Filmes
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista.live/images/iptv-list.jpg" group-title="ESPORTES",PREMIERE CLUBES
-https://minhalista.live/channel/970107/listasiptv-online/redirect
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZoI0eV.png" group-title="FILMES E SÉRIES",- CINE FILMES 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://rtguarany.com.br/arquivos/logo/logo.jpg" group-title="CANAIS FILMES",Filmes Tv Web guarani
+#EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Cine Filmes 3
 http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
