@@ -68,7 +68,8 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-logo="https://imgur.com/BazWqGe.png" group-title="Canais | Filmes e Series",City TV HD
 http://apk2.futeboltvgratis.com:8081/live/10/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="TNT" tvg-name="Fox" tvg-logo="https://imgur.com/hqgJnV2.png" group-title="Canais | Filmes e Series",TNT
+http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/nrjhits.png" group-title="CANAIS MUSICA", NRJ Hits
 http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?TvFogoHD
@@ -137,8 +138,7 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/pu
 http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
-http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
 http://tv.minhalista.me:80/live/jadelima/211001ba/37060.ts
