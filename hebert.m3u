@@ -21,10 +21,17 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 #EXTINF:-1 tvg-id="Filmes 24h" tvg-name="Filmes 24h" tvg-logo="https://imgur.com/lSjugjP.png" group-title="Canais | Filmes e Series",Cine Filmes 3
 http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8?TvFogoHD
 
+#EXTINF:-1 tvg-ID="Fox.br" tvg-name="BR: FOX HD" tvg-logo="" group-title="Brazil",BR: FOX HD
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/17058
+
+
+
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP
 http://apk2.futeboltvgratis.com:8081/live/17/chunks.m3u8
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
-https://ul.cdn584.net:8443/hls/7zdrwfa-436169340.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/5309
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo NEWS" tvg-logo="https://imgur.com/CQiYWOw.png" group-title="Canais | Abertos",Globo NEWS
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/5310
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://imgur.com/GRiiZru.png" group-title="Canais | Abertos",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w786020506.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
@@ -114,11 +121,9 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICAS", RADIO CAPITAL TV 
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
-https://cdn11.pxstream.tv/hls2/combate-hd/hls2/combate-640p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
-https://ul.cdn584.net:8443/hls/ggvmax80ikji.m3u8
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7302
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="ESPORTES", EI MAXX 2 HD
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
@@ -136,36 +141,38 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/pu
 http://apk2.futeboltvgratis.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2
 http://apk2.futeboltvgratis.com:8081/live/15/chunks.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 HD" tvg-name="Sportv 2 HD" tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes",Sportv 2 HD
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/5318
 
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7339
 
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2
-http://tv.minhalista.me:80/live/jadelima/211001ba/37060.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 2 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36952.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7338
+
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3
-http://tv.minhalista.me:80/live/jadelima/211001ba/37059.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 3 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36951.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7337
+
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4
-http://tv.minhalista.me:80/live/jadelima/211001ba/37058.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 4 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36950.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7336
+s
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5
-http://tv.minhalista.me:80/live/jadelima/211001ba/37057.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 5 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36949.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7335
+
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6
-http://tv.minhalista.me:80/live/jadelima/211001ba/37056.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 6 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36906.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/17517
+
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7
-http://tv.minhalista.me:80/live/jadelima/211001ba/37017.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 7 HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36905.ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes
-http://tv.minhalista.me:80/live/jadelima/211001ba/37016.ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere Clubes HD
-http://tv.minhalista.me:80/live/jadelima/211001ba/36948.ts
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/17516
+
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 8
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/17515
+
+#EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes",Premiere 9
+http://bestbuyiptv.link:6969/testeiptvbelem@gmail.com/xgeijFKp3r/7334
+
+
+
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="Canais | Esportes", FOX Sports
 http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8
