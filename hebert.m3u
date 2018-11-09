@@ -1,28 +1,3 @@
-#EXTINF:-1 tvg-id="Globo nr" tvg-name="Globo nr" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo Nordeste BR
-http://80.82.65.169:8080/Mika1/Mika/14334
-EXTINF:-1,Globo Premium BR
-http://80.82.65.169:8080/Mika1/Mika/14333
-#EXTINF:-1 tvg-id="Globo SP2" tvg-name="Globo SP2" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  RJ BR
-http://80.82.65.169:8080/Mika1/Mika/14332
-#EXTINF:-1 tvg-id="Globo SP 3" tvg-name="Globo SP 3" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  RJ HD BR
-http://80.82.65.169:8080/Mika1/Mika/14331
-#EXTINF:-1 tvg-id="Globo SP 4" tvg-name="Globo SP 4" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  SP BR
-http://80.82.65.169:8080/Mika1/Mika/14330
-#EXTINF:-1 tvg-id="Globo SP 5" tvg-name="Globo SP 5" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  SP HD BR
-http://80.82.65.169:8080/Mika1/Mika/14329
-#EXTINF:-1 tvg-id="Globo SP 6" tvg-name="Globo SP 6" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  BR
-http://80.82.65.169:8080/Mika1/Mika/3365
-#EXTINF:-1 tvg-id="Globo SP 7" tvg-name="Globo SP 7" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  HD BR
-http://80.82.65.169:8080/Mika1/Mika/3375
-#EXTINF:-1 tvg-id="Globo SP 8" tvg-name="Globo SP 8" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  BR
-http://80.82.65.169:8080/Mika1/Mika/3362
-#EXTINF:-1 tvg-id="Globo SP 9" tvg-name="Globo SP 9" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  HD BR
-http://80.82.65.169:8080/Mika1/Mika/3368
-#EXTINF:-1 tvg-id="Globo SP 10" tvg-name="Globo SP10" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo MegaPix BR
-http://80.82.65.169:8080/Mika1/Mika/3363
-#EXTINF:-1 tvg-id="Globo SP11" tvg-name="Globo SP11" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo  2 MegaPix TV BR
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 01 
 https://video-1-3.rutube.ru/hls-vod/5Nl0wXhxPZy8l7_A45EmIw/1541719950/584/0x5000cca271c78b81/1946440a41dc4da58080ac48793191d1.mp4.m3u8?i=1280x720_1052
