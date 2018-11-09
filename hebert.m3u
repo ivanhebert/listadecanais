@@ -115,10 +115,10 @@ http://84.43.207.130/planetahd/planetahd.m3u8
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE
-http://ul.cdn584.net:8080/hls/yoopha6.m3u8?s=FMMZzyYkikNqkYudtoemzw&e=1541243058
+https://cdn11.pxstream.tv/hls2/combate-hd/hls2/combate-640p/chunks.m3u8?md5=LUj78Cmlarfi_zXznfxBOw&expires=1541810581
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="https://tvonline.plus/wp-content/uploads/2016/04/combate.png" group-title="Canais | Esportes",COMBATE HD
-https://ul.cdn584.net:8443/hls/ggvmax80ikji.m3u8?s=7_M5ZeVNvY-G9h6SWI7DuQ&e=1541242275
+https://ul.cdn584.net:8443/hls/ggvmax80ikji.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_esporte-interativo-2_m.png" group-title="ESPORTES", EI MAXX 2 HD
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
