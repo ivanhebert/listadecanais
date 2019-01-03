@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 01 
-https://video-1-3.rutube.ru/hls-vod/5Nl0wXhxPZy8l7_A45EmIw/1541719950/584/0x5000cca271c78b81/1946440a41dc4da58080ac48793191d1.mp4.m3u8?i=1280x720_1052
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 02 
-https://video-1-103.rutube.ru/hls-vod/A-n912CB6AtINJRVUm4fjQ/1541720037/131/0x5000cca255cc9072/f1e230d877ce432bbd6a572b10955593.mp4.m3u8?i=1280x720_1322
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 03 
-https://video-2-101.rutube.ru/hls-vod/JGcUWvAv-h5sIV2hLIwqnQ/1541720105/582/0x5000cca255eedcee/5d2d2d9542a8470ea5084a026faf1d29.mp4.m3u8?i=1280x720_1325
-#EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 04 
-https://c40.vidlox.me/hls/oudvhqbdmbthvyaxv7zocvzedy3y5ukgayzvj5nikpfse2ffk5qsm7snwnlq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jl9QjlF.png" group-title="The Good Doctor 2ªTemp", GOT 01x04 
+https://1fgm8k5.oloadcdn.net/dl/l/H88Hft0LlSO3eRrj/pElKpDO7Jck/E7Q89E7QW+G07+S01+x+E04+-+Dublado.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0QGrbFX.png" group-title="The Good Doctor 2ªTemp", The Good Doctor 05
 https://c23.vidlox.tv/hls/oudvh4smnbtk2yixv5t6aejoijhnqdxrtuvbilos5qwhtk7wp5gdgm3gaylq/index-v1-a1.m3u8
